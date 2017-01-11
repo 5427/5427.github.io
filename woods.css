@@ -1,0 +1,61 @@
+html {
+  background: url(woods.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}a {text-decoration: none; }
+.woods2{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 2.5%;
+}
+.woods3{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 39%;
+}
+.kaart{
+  height: 10.5%;
+  width: 20.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 28%;
+}
+.woodsM1{
+  height: 14%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 58.5%;
+  left: 15%;
+}
+.woodsM2{
+  height: 14.5%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 68%;
+  left: 38%;
+}
+.woodsM3{
+  height: 14.5%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 66%;
+  left: 64%;
+}
