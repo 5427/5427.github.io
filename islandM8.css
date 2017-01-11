@@ -1,0 +1,18 @@
+html {
+  background: url(islandM8.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}a {text-decoration: none; }
+
+.field{
+  background-color: rgba(030,030,030,0.4);
+    height: 20%;
+    width: 25%;
+    border-radius: 12px;
+    border: 5px solid #FFF;
+    position: absolute;
+    top: 70%;
+    left:40%;
+}

@@ -1,0 +1,31 @@
+html {
+  background: url(huis.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a {text-decoration: none; }
+.textbox{
+  background-color: rgba(030,030,030,0.4);
+  text-align: center;
+  height: 25%;
+  width: 50%;
+  border-radius: 20px;
+  border: 5px solid #FFF;
+position:  absolute;
+  top: 25%;
+  left: 25%;
+}
+.muziek{
+  height: 13%;
+  width: 7%;
+  border-radius: 6px;
+  border: 5px solid #FFF;
+  position: absolute;
+  top: 85%;
+  left: 91%;
+}
+H1{
+  text-align: center;
+}

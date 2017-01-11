@@ -1,0 +1,61 @@
+html {
+  background: url(desert.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.desert2{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 2.5%;
+}
+.desert3{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 39%;
+}
+.kaart{
+  height: 10.5%;
+  width: 20.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 28%;
+}
+.desertM1{
+  height: 18.5%;
+  width: 7%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 64%;
+  left: 24%;
+}
+.desertM2{
+  height: 18.5%;
+  width: 7%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 67%;
+  left: 77%;
+}
+.desertM3{
+  height: 15.5%;
+  width: 6%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 58%;
+  left: 69%;
+}

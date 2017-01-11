@@ -1,0 +1,61 @@
+html {
+  background: url(island.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}a {text-decoration: none; }
+.island2{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 2.5%;
+}
+.island3{
+  height: 10.5%;
+  width: 36.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 39%;
+}
+.kaart{
+  height: 10.5%;
+  width: 20.5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 87%;
+  left: 28%;
+}
+.islandM1{
+  height: 14.5%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 68%;
+  left: 15%;
+}
+.islandM2{
+  height: 14.5%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 65%;
+  left: 40.5%;
+}
+.islandM3{
+  height: 14.5%;
+  width: 5%;
+  border-radius: 18px;
+  border: 5px hidden #FFF;
+  position: absolute;
+  top: 67%;
+  left: 69%;
+}
